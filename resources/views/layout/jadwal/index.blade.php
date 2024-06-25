@@ -41,11 +41,18 @@
                         <tbody>
                             <tr>
                                 <td>1</td>
-                                <td>121212</td>
-                                <td>JOKO</td>
+                                <td>127118092243</td>
+                                <td>MEGAWATI</td>
                                 <td>10-05-2001</td>
-                                <td>PRIA</td>
+                                <td>PEREMPUAN</td>
                                 <td>MEDAN</td>
+                                <tr>
+                                    <td>1</td>
+                                    <td>127118092243</td>
+                                    <td>LOLOK</td>
+                                    <td>12-04-1947</td>
+                                    <td>PRIA</td>
+                                    <td>MEDAN</td>
                                 <td>
                                     <button class="btn btn-sm btn-warning"><i class="fa fa-edit"></i></button>
                                     <button class="btn btn-sm btn-warning"><i class="fa fa-trash"></i></button>
